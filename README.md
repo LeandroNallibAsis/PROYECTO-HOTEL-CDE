@@ -201,7 +201,3 @@ http://localhost:5000/api/reservas
 
 ---
 
-## **Próximos pasos**
-1. **Probar todos los endpoints con Thunder Client o Postman.**
-2. **Conectar el backend con el frontend.**
-3. **Desplegar el proyecto en un servidor.**
